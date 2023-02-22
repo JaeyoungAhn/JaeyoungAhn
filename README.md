@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on field practice in KNU.
+- 🔭 I’m currently doing field practice in KNU.
 - 🌱 I’m currently learning algorithms and Spring Framework!
 <!--
 **JaeyoungAhn/JaeyoungAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
